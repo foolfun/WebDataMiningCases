@@ -1,2 +1,2 @@
 # WebDataMiningCases
-web数据挖掘的课堂案例
+some cases of web Data mining（Social network，Commodity Preference Network）
